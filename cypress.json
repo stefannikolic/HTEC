@@ -1,0 +1,6 @@
+{
+  "baseUrl": "https://qa-sandbox.ni.htec.rs/",
+  "video": false,
+  "viewportHeight": 720,
+  "viewportWidth": 1280
+}

@@ -1,0 +1,26 @@
+{
+  "name": "qa-stefanni",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "cy:open": "yarn cypress open",
+    "cy:run": "yarn cypress run --spec 'cypress/integration/HTEC/**.spec.js'"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/HTEC-interview/qa-stefanni.git"
+  },
+  "keywords": [
+    "HTEC"
+  ],
+  "author": "Stefan Nikolic",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/HTEC-interview/qa-stefanni/issues"
+  },
+  "homepage": "https://github.com/HTEC-interview/qa-stefanni#readme",
+  "devDependencies": {
+    "cypress": "^9.5.0"
+  }
+}
